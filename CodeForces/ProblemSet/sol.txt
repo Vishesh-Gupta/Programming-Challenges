@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+using namespace std;
+
+int main(){
+	int n,m,a, tile-count=1,rem-tiles;
+	cout<<"Enter the size of the theatre nxm";
+	cin>>n>>m;
+	cout<<"Enter the size of the flagstone";
+	cin>>a;
+	while	
+}
+
+int tile-set(n, m, a){
+	
+}
